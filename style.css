@@ -1,0 +1,28 @@
+h1{
+    color: blue;
+    margin-left: 650px;
+    }
+h2{
+ text-align: center;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display: flex;
+    justify-content: space-evenly;
+}  
+.text{
+    display: flex;
+    justify-content: space-evenly;
+} 
+p{
+    text-align: center;
+}
